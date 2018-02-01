@@ -8,10 +8,18 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Spring 2018
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: What does the trend of U.S. presidents’ inaugrual speeches reflect?
++ This project is conducted by [Xiaoxiao Guo (xg2282)]
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: [a short summary] The main question of this research is to analyse the trend of presidents’ inaugrual speeches according to the 58 inaugrual speeches we have from 1789-2017 and think about what these changes reflect. Specifically, I want to tell a story from the following three aspects:
+
+Change in length of sentences in presidents’ inaugrual speeches
+Change in speakers’ emotions with presidents’ inaugrual speeches
+Change in topics of presidents’ inaugrual speeches
+
+Reference:
+1. wk2-Tutorial-TextMining.Rmd, Prof. Ying Liu, Chengliang Tang
+2. InteractiveWordCloud.Rmd, Prof. Ying Liu, Chengliang Tang
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
