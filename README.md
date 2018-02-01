@@ -9,9 +9,9 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 Term: Spring 2018
 
 + Projec title: What does the trend of U.S. presidents’ inaugrual speeches reflect?
-+ This project is conducted by [Xiaoxiao Guo (xg2282)]
++ This project is conducted by Xiaoxiao Guo (xg2282)
 
-+ Project summary: [a short summary] The main question of this research is to analyse the trend of presidents’ inaugrual speeches according to the 58 inaugrual speeches we have from 1789-2017 and think about what these changes reflect. Specifically, I want to tell a story from the following three aspects:
++ Project summary: The main question of this research is to analyse the trend of presidents’ inaugrual speeches according to the 58 inaugrual speeches we have from 1789-2017 and think about what these changes reflect. Specifically, I want to tell a story from the following three aspects:
 
 Change in length of sentences in presidents’ inaugrual speeches
 Change in speakers’ emotions with presidents’ inaugrual speeches
