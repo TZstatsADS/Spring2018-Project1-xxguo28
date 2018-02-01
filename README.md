@@ -17,9 +17,9 @@ Term: Spring 2018
   2. Change in speakers’ emotions with presidents’ inaugrual speeches
   3. Change in topics of presidents’ inaugrual speeches
 
-Reference:
-1. wk2-Tutorial-TextMining.Rmd, Prof. Ying Liu, Chengliang Tang
-2. InteractiveWordCloud.Rmd, Prof. Ying Liu, Chengliang Tang
++ Reference:
+  1. wk2-Tutorial-TextMining.Rmd, Prof. Ying Liu, Chengliang Tang
+  2. InteractiveWordCloud.Rmd, Prof. Ying Liu, Chengliang Tang
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
