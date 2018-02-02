@@ -16,10 +16,21 @@ Term: Spring 2018
   1. Change in length of sentences in presidents’ inaugrual speeches
   2. Change in speakers’ emotions with presidents’ inaugrual speeches
   3. Change in topics of presidents’ inaugrual speeches
+  
++ Findings:
+From my study, I will draw a conclusion that the trend of presidents’ speeches from 1789 to 2017 reflects the development of our human behaviours and thoughts:
+
+  1. Sentences become shorter than before, which implies that people are pursuing an simpler way to express themselves.
+  2. Less radical in sentiment means people now can control their emotion well and can always keep calm. In addition, people now become more possitive than before.
+  3. Topic change of speeches reflects our thoughts. It shows what kind of life we are living in or we want to live in.
+
+
 
 + Reference:
   1. wk2-Tutorial-TextMining.Rmd, Prof. Ying Liu, Chengliang Tang
   2. InteractiveWordCloud.Rmd, Prof. Ying Liu, Chengliang Tang
+
+
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
